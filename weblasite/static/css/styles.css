@@ -1,0 +1,16 @@
+.alert {
+    font-family: Spartan, Josefin Sans, sans-serif;
+    font-size: 14px;
+}
+
+.alert-error {
+    color: rgb(255, 134, 134);
+}
+
+.alert-success {
+    color: #ff852d;
+}
+
+a {
+    text-decoration: none;
+}
